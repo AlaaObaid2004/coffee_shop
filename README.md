@@ -3,8 +3,6 @@
 A single-page landing website for a coffee shop, built with HTML5 and CSS3. The page presents the shop's brand, menu, customer reviews, and a table reservation form.
 
 
-[Coffee Shop Preview](images/preview.png)
-
 ## Features
 
 - Fixed navigation bar with smooth in-page links
